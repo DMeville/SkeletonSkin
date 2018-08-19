@@ -1,6 +1,6 @@
 ## Usage
 
-Will upload a demo eventually. I'm using this to attach equipment (shirts, like this BOX) to character bodies.
+I'm using this to attach equipment (shirts, like this BOX) to character bodies.
 
 ![screenshot](https://i.imgur.com/Lgd9DFd.gif)
 
