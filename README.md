@@ -1,6 +1,6 @@
 ## Usage
 
-Will upload a demo eventually
+Will upload a demo eventually. I'm using this to attach equipment (shirts) to character bodies.
 
 Attach a SkeletonSkin component to each skinned mesh renderer you want to move to another matching skeleton.
 Click the "Precache" button, this will build the list of bones used for lookup later.
